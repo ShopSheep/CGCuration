@@ -1,0 +1,1046 @@
+[ 
+  {
+    "GENE_NAME": "ABL1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "24421390",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ABL2",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "23842646",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "vascular endothelium",
+    "PUBMED_PMID": "26119946",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "scavenger receptor for chemokine CXCL12",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "25051350",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD decreases invasive capacity",
+    "CELL_LINE": "SW480 and HT-29"
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "mouse models of breast cancer",
+    "PUBMED_PMID": "26119946",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "promotes tumour growth",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "26119946",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "suppresses",
+    "DESCRIPTION": "limits metastasis ",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "26119946",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "26119946",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "overexpressed",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "hepatocellular carcinoma",
+    "PUBMED_PMID": "28429395",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD inhibits tumour invasion and metastasis",
+    "CELL_LINE": "HCCLM3"
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "oesophageal SCC",
+    "PUBMED_PMID": "27035873",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "downregulation by miR-100 results in decreased invasive capacity",
+    "CELL_LINE": "EC109"
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "mouse xenograft models of lung cancer",
+    "PUBMED_PMID": "17898181",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "promotes tumour growth",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "mouse xenograft models of lung cancer",
+    "PUBMED_PMID": "17898181",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "enhances metastasis",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "hepatocellular carcinoma",
+    "PUBMED_PMID": "27572688",
+    "HALLMARK": "angiogenesis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "enhances the angiogenic capacity",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "GBM",
+    "PUBMED_PMID": "28759950",
+    "HALLMARK": "clinical impact",
+    "IMPACT": "",
+    "DESCRIPTION": "high expression predicts poor survival",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "25051350",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD induces apoptosis",
+    "CELL_LINE": "SW480 and HT-29"
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "oesophageal SCC",
+    "PUBMED_PMID": "27035873",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "downregulation by miR-100 results in decreased cell proliferation",
+    "CELL_LINE": "EC109"
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "25051350",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD negatively impacts cell proliferation and tumour growth in xenograft models",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "gallbladder cancer",
+    "PUBMED_PMID": "21986127",
+    "HALLMARK": "clinical impact",
+    "IMPACT": "",
+    "DESCRIPTION": "high expression predicts poor survival",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "papillary thyroid carcinoma",
+    "PUBMED_PMID": "26383519",
+    "HALLMARK": "angiogenesis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "stimulates the expression of IL-8 and VEGF resulting in enhanced angiogenesis",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "renal cell carcinoma",
+    "PUBMED_PMID": "20578990",
+    "HALLMARK": "clinical impact",
+    "IMPACT": "",
+    "DESCRIPTION": "high expression is associated with poor survival",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "lipoma",
+    "PUBMED_PMID": "12118328",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "HMGA2",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACKR3",
+    "CELL_TYPE": "lipoma",
+    "PUBMED_PMID": "12118328",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "18594527",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "provides androgen upregulated promoter in fusion with ETV1",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "prostate cancer",
+    "PUBMED_PMID": "18594527",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "ETV1",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "15556626",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "involved in lipid metabolism, downregulates FASN in prostate cancer after vitamin D3 stimulation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "ER- breast cancer",
+    "PUBMED_PMID": "23512947",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "overexpressed ",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "prostate cancer",
+    "PUBMED_PMID": "21829708",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "downregulated",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL3",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "18594527",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL6",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "16572202",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "ETV6",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL6",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "16572202",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACSL6",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "15655248",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "regulator of lipid metabolism",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "22977237",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "kinase, receptor of bone morphogenetic protein",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "24705254",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "immortalized normal human astrocytes",
+    "PUBMED_PMID": "24705254",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "GOF mutant promotes cell proliferation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "diffuse intrinsic pontine glioma",
+    "PUBMED_PMID": "24705252",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "recurrent GOF mutations",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "prostate cancer",
+    "PUBMED_PMID": "19736306",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "in the presence of constitutively active ACVR1, cell migration is not inhibited by endoglin",
+    "CELL_LINE": "PC3-M"
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "erythroleukaemia",
+    "PUBMED_PMID": "28782519",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression of ALK2 results in the autophosphorylation of Smad1/5, leading to consequent increase in cell growth, the effect is reversed after inhibition of ACVR1",
+    "CELL_LINE": "TF-1"
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "glioma-initiating cells",
+    "PUBMED_PMID": "28459464",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression of the constitutively active form of ACVR1 results in a marked increase in apoptotic cells",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "25413979",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "required for chondrogenesis during development",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "20011542",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "LOH in 16% and promoter hypermethylation in 4% of microsatellite stable tumours",
+    "CELL_LINE": "HCT116, SW48, DLD1, HCA7, HCT15, LoVo, LS174T, SNU175, SNU407, SW48, RKO, CaCo2, HT29, SNU81, SNU503, SW480, T84"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "high-grade serous ovarian cancer",
+    "PUBMED_PMID": "28115208",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "frequently increased expression",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "multiple myeloma",
+    "PUBMED_PMID": "19926132",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "characteristically increased expression in total mononuclear cell bone marrow aspirates",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "rectal adenocarcinoma, stomach adenocarcinoma, uterine corpus endometrial carcinoma",
+    "PUBMED_PMID": "27694933",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "exon 10 (A)8 tract is a hotspot for expansion or contraction in 28-87% of microsatellite instability-high tumours",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "bladder cancer",
+    "PUBMED_PMID": "31101108",
+    "HALLMARK": "global regulation of gene expression",
+    "IMPACT": "",
+    "DESCRIPTION": "exon 3,4 and 5-containing circACVR2A RNA acts a miR-626 sponge, reducing its suppression of EYA4",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "zebrafish embryo ",
+    "PUBMED_PMID": "15977175",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "protein depletion results in defective development of cranial cartilage and bone, and pharyngeal tooth structures",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "osteoblasts",
+    "PUBMED_PMID": "28659341",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "KD enhances differentiation and maturation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "T helper 17 lymphoctyes",
+    "PUBMED_PMID": "22056434",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "expression is associated with the IL6 and TGFB1-driven differentiation of Th17 lymphocytes from naive CD4+ T cells",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "murine embryonic stem cells ",
+    "PUBMED_PMID": "25458897",
+    "HALLMARK": "cell division control",
+    "IMPACT": "",
+    "DESCRIPTION": "overexpression-mediated activin signalling leads to increased expression of CCNB1 and CCNE1, and progression to the cell cycle S phase",
+    "CELL_LINE": "E14"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "chondrosarcoma",
+    "PUBMED_PMID": "25024164",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "FN1",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "14988818",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "loss of expression in 62% of microsatellite instability-high tumours carrying an exon 10 (A)8 tract single nucleotide deletion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "20011542",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "loss of expression in 16% of microsatellite stable tumours associated with LOH or promoter hypermethylation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "prostate cancer",
+    "PUBMED_PMID": "16337854",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "truncating frameshift mutations attenuate activin signaling",
+    "CELL_LINE": "PC3, H660, LNCaP, DU145, 22Rv-1, LAPC-4"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "26497569",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "Activin ACVR2A signaling stabilises p21 via SMAD4",
+    "CELL_LINE": "SW480"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "11815670",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "transmembrane, constitutively active serine-threonine kinase TGFbeta type II receptor that mediates activin signalling",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "murine embryonic stem cells ",
+    "PUBMED_PMID": "25458897",
+    "HALLMARK": "genome instability and mutations",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression-mediated activin signalling is associated with reduced single-strand break and double-strand break DNA repair",
+    "CELL_LINE": "E14"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "zebrafish embryo",
+    "PUBMED_PMID": "15977175",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "protein depletion results in increased cell apoptosis in neural tissue",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "murine embryonic stem cells",
+    "PUBMED_PMID": "25458897",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression-mediated activin signalling leads to increased cell proliferation",
+    "CELL_LINE": "E14"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "osteoblasts",
+    "PUBMED_PMID": "28659341",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD decreases cell proliferation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "prostate cancer, neuroblastoma",
+    "PUBMED_PMID": "19308291",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD inhibits cell adhesion and growth",
+    "CELL_LINE": "PC-3, LNCaP, M17"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "17258738",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD decreases cell migration",
+    "CELL_LINE": "HCT116, HEC59, FET, CAPAN1"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "gastric cancer",
+    "PUBMED_PMID": "32440149",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression of wild-type gene, but neither exon 3 nor exon 10 (A)8 tract frameshift-effecting deletion mutant, promotes cell migration",
+    "CELL_LINE": "MKN28"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "17258738",
+    "HALLMARK": "suppression of growth",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD increases cell growth by removing the growth inhibitory effects of activin signaling",
+    "CELL_LINE": "HCT116, HEC59, FET, CAPAN1"
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "28659341",
+    "HALLMARK": "suppression of growth",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "mice with osteoblast lineage-specific homozygous gene deletion display increased femoral trabecular bone volume at 6 and 12 weeks of age",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "chondrosarcoma",
+    "PUBMED_PMID": "25024164",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "14988818",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "TSG",
+    "DESCRIPTION": "TSG",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "30310521",
+    "HALLMARK": "clinical impact",
+    "IMPACT": "",
+    "DESCRIPTION": "loss of expression associated with poor outcome and metastatic disease",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "high-grade serous ovarian cancer",
+    "PUBMED_PMID": "28115208",
+    "HALLMARK": "clinical impact",
+    "IMPACT": "",
+    "DESCRIPTION": "higher expression associated with shorter disease-free survival",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "chondrosarcoma",
+    "PUBMED_PMID": "25024164",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "missense mutations in 9% of tumours",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "ACVR2A",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "14988818",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "frameshift-effecting single nucleotide deletion in exon 10 (A8) tract in 83% of microsatellite instability-high tumours",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "9233580",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "serine-proline-rich protein with properties of nuclear transcription factor",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF1",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "8506309",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "22337994",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "upregulates expression of CD133, which is required for the growth of ALL cells",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "10887138",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "critical for normal lymphocyte development",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF1",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "8506309",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "KMT2A",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF3",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "8555498",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "KMT2A",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF3",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "15704140",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "overexpressed",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF3",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "8555498",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF3",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "8555498",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "lymphoid nuclear protein with transactivation potential",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "20159561",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "KMT2A",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "ALL",
+    "PUBMED_PMID": "20159561",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "20159561",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "component of the super elongation complex required for its stability and proper transcription by poised RNA polymerase II ",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "20159561",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "HNSCC",
+    "PUBMED_PMID": "29741610",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "ectopic expression promotes cell migration and invasion",
+    "CELL_LINE": "SCC1 and SCC23"
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "HNSCC",
+    "PUBMED_PMID": "29741610",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "overexpression promotes and KD inhibits cell proliferation",
+    "CELL_LINE": "SCC1 and SCC23"
+  },
+  {
+    "GENE_NAME": "AFF4",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "28955517",
+    "HALLMARK": "differentiation and development",
+    "IMPACT": "",
+    "DESCRIPTION": "depletion of AFF4 significantly inhibits the osteogenic potential of mesenchymal stem cells",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKAP9",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "9915845",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "protein kinase A-anchoring protein associated with centrosomes",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKAP9",
+    "CELL_TYPE": "papillary thyroid carcinoma",
+    "PUBMED_PMID": "19766698",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "fusion",
+    "DESCRIPTION": "fusion",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKAP9",
+    "CELL_TYPE": "papillary thyroid carcinoma",
+    "PUBMED_PMID": "19766698",
+    "HALLMARK": "fusion partner",
+    "IMPACT": "",
+    "DESCRIPTION": "BRAF",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKAP9",
+    "CELL_TYPE": "papillary thyroid carcinoma",
+    "PUBMED_PMID": "15630448",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "fusion protein lacks the autoinhibitory N-terminal portion of BRAF",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "gastric adenocarcinoma",
+    "PUBMED_PMID": "3037531",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "gastric adenocarcinoma",
+    "PUBMED_PMID": "3037531",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "amplified",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "haemangioma",
+    "PUBMED_PMID": "25388284",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD decreases basal and VEGF-stimulated cell migration",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "prostate cancer",
+    "PUBMED_PMID": "25322691",
+    "HALLMARK": "change of cellular energetics",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "AKT1 activation is associated with accumulation of aerobic glycolysis metabolites",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "hepatocellular carcinoma",
+    "PUBMED_PMID": "24297510",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "enforced expression of Akt1 induces cell migration and invasion",
+    "CELL_LINE": "HepG2"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "24297510",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "suppresses",
+    "DESCRIPTION": "enforced expression of Akt1 suppresses cell migration and invasion",
+    "CELL_LINE": "HCT116"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "lung cancer",
+    "PUBMED_PMID": "21925532",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "suppresses",
+    "DESCRIPTION": "silencing of Akt1 increases the release of TGF-beta1, which induces a change of morphology, cancer cell dissociation, migration and eventually leads to EMT",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "28557977",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "serine/threonine kinase, a component of PI3K/Akt pathway, activated by phosphatidylinositol 3,4,5-trisphosphate (PIP3), translocates to the cell membrane, where it's activated via phosphorylation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "NSCLC",
+    "PUBMED_PMID": "28765579",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "suppresses",
+    "DESCRIPTION": "inhibition of AKT1 signalling promotes invasion and metastasis of cancer cells with K-RAS or EGFR mutations",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "murine prostate cancer",
+    "PUBMED_PMID": "28209968",
+    "HALLMARK": "genome instability and mutations",
+    "IMPACT": "suppresses",
+    "DESCRIPTION": "E17K GOF mutant accelerates DSB repair and improves survival of irradiated cells",
+    "CELL_LINE": "Tramp-C1"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "cancer",
+    "PUBMED_PMID": "11571628",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD inhibits anchorage-independent cell growth and induces apoptosis",
+    "CELL_LINE": "MiaPaCa-2, H460, HCT-15, and HT1080"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "25136137",
+    "HALLMARK": "angiogenesis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "promotes angiogenesis largely due to phosphorylation and regulation of important downstream effectors that promote aspects of angiogenic signalling",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "16552185",
+    "HALLMARK": "angiogenesis",
+    "IMPACT": "promotes or suppresses",
+    "DESCRIPTION": "vital for the maintenance of vascular integrity, regulates the proliferation-apoptosis signalling during vascular remodelling, regulates various signalling pathways to affect the balance of pro- and anti-angiogenic factors",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "adipocytes and L6 myotubes",
+    "PUBMED_PMID": "9478990",
+    "HALLMARK": "change of cellular energetics",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "activation of ATK1 mimics insulin-induced glucose transport and protein synthesis",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "bladder carcinoma",
+    "PUBMED_PMID": "26148825",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD results in impaired cell survival",
+    "CELL_LINE": "T24"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "bladder carcinoma",
+    "PUBMED_PMID": "26148825",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD results in impaired cell  proliferation and colony formation",
+    "CELL_LINE": "T24"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "bladder carcinoma",
+    "PUBMED_PMID": "26148825",
+    "HALLMARK": "invasion and metastasis",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD results in impaired cell migration and microinvasion",
+    "CELL_LINE": "T24"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "glioblastoma",
+    "PUBMED_PMID": "25501279",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "PCAF-mediated Akt1 acetylation enhances Akt1 phosphorylation at both sites of Thr(308) and Ser(473) and promotes cell proliferation",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "3037531",
+    "HALLMARK": "role in cancer",
+    "IMPACT": "oncogene",
+    "DESCRIPTION": "oncogene",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "27515171",
+    "HALLMARK": "types of alteration in cancer",
+    "IMPACT": "",
+    "DESCRIPTION": "E17K was the only known driver alteration found in a subset of samples",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "colorectal cancer",
+    "PUBMED_PMID": "28339062",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "suppresses the cell apoptosis induced by DNA damage",
+    "CELL_LINE": "HCT116 and HT29"
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "",
+    "PUBMED_PMID": "17611497",
+    "HALLMARK": "impact of mutation on function",
+    "IMPACT": "",
+    "DESCRIPTION": "Lys 17 alters the electrostatic interactions of the lipid-binding pocket and forms new hydrogen bonds with a phosphoinositide ligand, resulting in hyperactivation of AKT1 by means of pathological localization to the plasma membrane and stimulation of downstream signalling",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "lung cancer",
+    "PUBMED_PMID": "21242979",
+    "HALLMARK": "function summary",
+    "IMPACT": "",
+    "DESCRIPTION": "fibroblasts lacking Akt1 are resistant to transformation by mutant K-ras and stimulation by epidermal growth factor",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "27004402",
+    "HALLMARK": "proliferative signalling",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "induces mammary hyperplasia",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "breast cancer",
+    "PUBMED_PMID": "27004402",
+    "HALLMARK": "suppression of growth",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "prevents HER2-driven tumorigenesis, in part through negative feedback inhibition of RTK signalling",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "melanocytes",
+    "PUBMED_PMID": "25551293",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "promotes growth factor independent survival in a kinase-independent way",
+    "CELL_LINE": ""
+  },
+  {
+    "GENE_NAME": "AKT1",
+    "CELL_TYPE": "haemangioma",
+    "PUBMED_PMID": "25388284",
+    "HALLMARK": "escaping programmed cell death",
+    "IMPACT": "promotes",
+    "DESCRIPTION": "KD results in increased tumour cell apoptosis in response to serum starvation",
+    "CELL_LINE": ""
+  }
+]
