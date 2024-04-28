@@ -13,9 +13,9 @@ with open('COSMIC_CGC_SAMPLE', 'r') as file:
     data2 = json.load(file)
     
 def aliasCheck(gene_name):
-    connection = connect(host = "localhost", user = "root", password = "rohjy0329", database = "genomeinsight") 
+    connection = connect(host = "Enter Host Name", user = "Enter Username", password = "Enter password", database = "Enter Database Name") 
     cursor = connection.cursor()
-    cursor.execute(f"SELECT * FROM genomeinsight.genealias WHERE Approved_Symbol = '{gene_name}' OR Alias_Symbol = '{gene_name}' OR Previous_Symbol = '{gene_name}';")
+    cursor.execute(f"SELECT * FROM 'Database_Name' WHERE Approved_Symbol = '{gene_name}' OR Alias_Symbol = '{gene_name}' OR Previous_Symbol = '{gene_name}';")
     records = cursor.fetchall()
     if records == []:
         return gene_name
