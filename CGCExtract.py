@@ -65,7 +65,7 @@ def check_gene(data):
     process_name = current_process().name
     print(f"Checking Abstract with process {process_name} for gene extraction")
     client = OpenAI()
-    ctd = "I will provide you an abstract from PubMed. Your job is to return the name of the gene that is being discussed in the abstract. Think step by step, although you do not have to explain to me your reasoning steps. Only return the name of the gene, and you must extract two possible genes. First and most importantly, look for phosphorylation: if a protein is phosphorylating, extract the name of the gene that codes for the protein that phosphorylates, and end the analysis. If the abstract mentions a protein, make sure to identify and return the corresponding gene name for that protein. Do not tell me anything other than the name of the gene. If the abstract does not explicitly mention a gene name but discusses a protein, respond with the name of the gene that encodes for the protein mentioned in the context of the abstract. If the role of a protein is the main focus of the abstract, first identify the protein that is the main point of discussion since there could be multiple proteins mentioned in the abstract, and second, extract the name of the gene that codes for the protein. Ensure that you focus on the primary subject of the study, which is often the protein or gene whose function or characteristics are being most extensively explored or characterized in the abstract. Make sure you are returning the name of gene, not protein."
+    ctd = "I will provide you an abstract from PubMed. Your job is to return the name of the gene that is being discussed in the abstract. Think step by step, and explain your reasoning steps. Look for two possible genes that are being discussed. First and most importantly, look for phosphorylation: if a protein is phosphorylating, extract the name of the gene that codes for the protein that phosphorylates, and end the analysis. If the abstract mentions a protein but not gene, identify and return the corresponding gene name for that protein. If the abstract does not explicitly mention a gene name but discusses a protein, respond with the name of the gene that encodes for the protein mentioned in the context of the abstract. If the role of a protein is the main focus of the abstract, first identify the protein that is the main point of discussion since there could be multiple proteins mentioned in the abstract, and second, extract the name of the gene that codes for the protein. Ensure that you focus on the primary subject of the study, which is often the protein or gene whose function or characteristics are being most extensively explored or characterized in the abstract. Make sure you are returning the name of gene, not protein. Try to return the symbol for the extracted gene names, not the outdated ones."
     response = client.chat.completions.create(
         model="gpt-4-0125-preview",
         messages=[
@@ -80,13 +80,30 @@ def check_gene(data):
         frequency_penalty=0,
         presence_penalty=0
     )
-    result = response.choices[0].message.content.strip()
+    result1 = response.choices[0].message.content.strip()
+    client = OpenAI()
+    response = client.chat.completions.create(
+        model="gpt-4-0125-preview",
+        messages=[
+            {
+                "role": "user",
+                "content": f"Read {result1}. Extract the gene symbols that were extracted from that text. No descriptions required, only return the gene symbols, comma separated."
+            }
+        ],
+        temperature=0,
+        max_tokens=4095,
+        top_p=0,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
+    result = response.choices[0].message.content.strip().replace("\n", ", ")
     print(f"Gene extraction successful for process {process_name}")
     gene_names = result.split(", ")
     corrected_gene_names = [aliasCheck(gene_name.strip()) for gene_name in gene_names]
     if len(corrected_gene_names) >= 2 and corrected_gene_names[0] == corrected_gene_names[1]:
         corrected_gene_names.pop(1)
     return [pmid] + corrected_gene_names
+
 
 def process_genes(abstracts):
     print("Extracting gene names...")
@@ -103,7 +120,6 @@ def aliasCheck(gene_name):
         query = f"SELECT * FROM 'Database_Name' WHERE Approved_Symbol = '{gene_name}' OR Alias_Symbol = '{gene_name}' OR Previous_Symbol = '{gene_name}';"
         cursor.execute(query)
         records = cursor.fetchall()
-        print(f"Records for {gene_name}: {records}")  # Debug output
         if not records:
             return gene_name
         ans = []
@@ -397,8 +413,6 @@ def check_desc(data):
             presence_penalty=0
         )
         description = response.choices[0].message.content.strip()
-        print("==============================================")
-        print(description)
         try:
             description = list(description)
         except Exception as e:
@@ -408,14 +422,8 @@ def check_desc(data):
             for index, des in enumerate(description):
                 if index != len(description) - 1:
                     fp += des + ", "
-                    print("==============================================")
-                    print(des)
-                    print("==============================================")
                 else:
                     fp += des
-                    print("==============================================")
-                    print(des)
-                    print("==============================================")
         desclist.append((pmid,abstract,gene,cell,hallmark,fp))
     return desclist
 
@@ -457,7 +465,6 @@ if __name__ == "__main__":
 
     hallmarked_input = process_hallmarks(hallmark_input)
     output = process_desc(hallmarked_input)
-    print(output)
 
     records = []
     for i in range(len(output)):
@@ -474,4 +481,3 @@ if __name__ == "__main__":
         records.append(record_dict)
     with open('final_results.json', 'w') as json_file:
         json.dump(records, json_file, indent=2)
-        
